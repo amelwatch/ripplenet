@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+"GBOXJPBVKPHIFJPVLU22Q4QKJJYP4BO5KT4ZS3T4QR446K5CPIHE22DK"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Nexus"
-ORG_URL="https://nexus.io/"
-ORG_DESCRIPTION="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-ORG_TWITTER="@NexusOfficial"
-ORG_LOGO="https://i.ibb.co/gy3QHfq/nexus.jpg"
-ORG_OFFICIAL_EMAIL="nexuscommunity@gmail.com"
+ORG_NAME="Everest"
+ORG_URL="https://www.everest.org/"
+ORG_DESCRIPTION="Everest is a next generation blockchain and fintech platform designed to bring the mass-market of users and financial institutions into the decentralized finance (DeFi), crypto and fiat future. Everest is the world’s only device-free globally accessible, digital transaction protocol with built-in identity. Through the use of digital identities, electronic wallets, document management, and biometrics, users will be able to digitally verify their identity for public services and claim their social and economic rights."
+ORG_TWITTER="@EverestDotOrg"
+ORG_LOGO="https://i.ibb.co/TcCqdBy/Everest-Logo-1-Aqua-BIG-1.jpg"
+ORG_OFFICIAL_EMAIL="everestdotorg@gmail.com"
 
 
 [[CURRENCIES]]
-code="NXS"
-issuer="GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+code="ID"
+issuer="GBOXJPBVKPHIFJPVLU22Q4QKJJYP4BO5KT4ZS3T4QR446K5CPIHE22DK"
 anchor_asset="false"
-name="Nexus"
-desc="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
-conditions=""
-image="https://i.ibb.co/gy3QHfq/nexus.jpg"
+name="Everest"
+desc="Everest is a next generation blockchain and fintech platform designed to bring the mass-market of users and financial institutions into the decentralized finance (DeFi), crypto and fiat future. Everest is the world’s only device-free globally accessible, digital transaction protocol with built-in identity. Through the use of digital identities, electronic wallets, document management, and biometrics, users will be able to digitally verify their identity for public services and claim their social and economic rights."
+conditions="The Everest Foundation offers Stakers, eAgents and eTellers the cost-competitive, vertically integrated solution from Everest Networks for onboarding an account with integrated eKYC + compliance, and the ability to effectively resell Everest-supplied services, such as DeFi (savings, lending/borrowing, swapping, etc.), international routing, peer-to-merchant. Stakers, eAgents, and eTellers are incentivized through the ID token, a utility token that rewards virality and holding."
+image="https://i.ibb.co/TcCqdBy/Everest-Logo-1-Aqua-BIG-1.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#NXS was issued using the open and inclusive Stellar blockchain network.
+#ID was issued using the open and inclusive Stellar blockchain network.
