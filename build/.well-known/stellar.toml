@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBOXJPBVKPHIFJPVLU22Q4QKJJYP4BO5KT4ZS3T4QR446K5CPIHE22DK"
+"GA2NUW7ELBZIKTGV7C4F2YULHDHW3RWHQVEHUWIRR7MHAOSQMYVI4QVR"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Everest"
-ORG_URL="https://www.everest.org/"
-ORG_DESCRIPTION="Everest is a next generation blockchain and fintech platform designed to bring the mass-market of users and financial institutions into the decentralized finance (DeFi), crypto and fiat future. Everest is the world’s only device-free globally accessible, digital transaction protocol with built-in identity. Through the use of digital identities, electronic wallets, document management, and biometrics, users will be able to digitally verify their identity for public services and claim their social and economic rights."
-ORG_TWITTER="@EverestDotOrg"
-ORG_LOGO="https://i.ibb.co/TcCqdBy/Everest-Logo-1-Aqua-BIG-1.jpg"
-ORG_OFFICIAL_EMAIL="everestdotorg@gmail.com"
+ORG_NAME="RippleNet"
+ORG_URL="https://ripple.com/ripplenet/"
+ORG_DESCRIPTION="RippleNet is a global network that financial institutions can use to transfer money more quickly, with greater transparency and at less cost through a unified system, as opposed to the fragmented traditional ecosystem banks have historically worked with."
+ORG_TWITTER="@Ripple"
+ORG_LOGO="https://i.ibb.co/Vx64grk/ripple.png"
+ORG_OFFICIAL_EMAIL="ripplenet@gmail.com"
 
 
 [[CURRENCIES]]
-code="ID"
-issuer="GBOXJPBVKPHIFJPVLU22Q4QKJJYP4BO5KT4ZS3T4QR446K5CPIHE22DK"
+code="RippleNet"
+issuer="GA2NUW7ELBZIKTGV7C4F2YULHDHW3RWHQVEHUWIRR7MHAOSQMYVI4QVR"
 anchor_asset="false"
-name="Everest"
-desc="Everest is a next generation blockchain and fintech platform designed to bring the mass-market of users and financial institutions into the decentralized finance (DeFi), crypto and fiat future. Everest is the world’s only device-free globally accessible, digital transaction protocol with built-in identity. Through the use of digital identities, electronic wallets, document management, and biometrics, users will be able to digitally verify their identity for public services and claim their social and economic rights."
-conditions="The Everest Foundation offers Stakers, eAgents and eTellers the cost-competitive, vertically integrated solution from Everest Networks for onboarding an account with integrated eKYC + compliance, and the ability to effectively resell Everest-supplied services, such as DeFi (savings, lending/borrowing, swapping, etc.), international routing, peer-to-merchant. Stakers, eAgents, and eTellers are incentivized through the ID token, a utility token that rewards virality and holding."
-image="https://i.ibb.co/TcCqdBy/Everest-Logo-1-Aqua-BIG-1.jpg"
+name="RippleNet"
+desc="RippleNet is a global network that financial institutions can use to transfer money more quickly, with greater transparency and at less cost through a unified system, as opposed to the fragmented traditional ecosystem banks have historically worked with."
+conditions="Don't forget to follow us on Twitter where we distribute RippleNet tokens each week"
+image="https://i.ibb.co/Vx64grk/ripple.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#ID was issued using the open and inclusive Stellar blockchain network.
+#RippleNet was issued using the open and inclusive Stellar blockchain network.
